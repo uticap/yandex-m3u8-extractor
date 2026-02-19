@@ -1,0 +1,3 @@
+cat > requirements.txt << 'EOF'
+requests>=2.25.0
+EOF
